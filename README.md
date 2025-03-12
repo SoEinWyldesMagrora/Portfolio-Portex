@@ -1,6 +1,3 @@
-Hier ist dein README im Codeblock-Format:  
-
-```md
 # Portfolio Website Template
 
 Eine moderne, responsive Portfolio-Website mit animierten Übergängen und einem cyberpunk-inspirierten Design.
