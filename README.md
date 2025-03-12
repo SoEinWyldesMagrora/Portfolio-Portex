@@ -1,3 +1,6 @@
+Hier ist dein README im Codeblock-Format:  
+
+```md
 # Portfolio Website Template
 
 Eine moderne, responsive Portfolio-Website mit animierten Übergängen und einem cyberpunk-inspirierten Design.
@@ -18,22 +21,22 @@ Eine moderne, responsive Portfolio-Website mit animierten Übergängen und einem
 Folgende Dateien müssen angepasst werden:
 
 #### `index.php`:
-- Zeile 4: Ihren Namen in `<h1 class="glitch">`
-- Zeile 5: Ihre Berufsbezeichnung
-- Zeile 14-16: Ihre Social Media Links
-- Zeile 25-27: Ihren "Über mich" Text
-- Zeile 31-43: Ihre Statistiken (Jahre, Projekte, Kunden)
-- Zeile 52-90: Ihre Skills und Fortschrittsbalken
-- Zeile 97-130: Ihre Projekte
+- **Zeile 4**: Ihren Namen in `<h1 class="glitch">`
+- **Zeile 5**: Ihre Berufsbezeichnung
+- **Zeile 14-16**: Ihre Social Media Links
+- **Zeile 25-27**: Ihren "Über mich" Text
+- **Zeile 31-43**: Ihre Statistiken (Jahre, Projekte, Kunden)
+- **Zeile 52-90**: Ihre Skills und Fortschrittsbalken
+- **Zeile 97-130**: Ihre Projekte
 
 #### `header.php`:
-- Zeile 5: Ihren Namen als Titel
-- Zeile 15: Ihren Namen im Logo
+- **Zeile 5**: Ihren Namen als Titel
+- **Zeile 15**: Ihren Namen im Logo
 
 #### `footer.php`:
-- Zeile 4: Ihre Kontakt-Email
-- Zeile 14: Ihre Social Media Links
-- Zeile 19: Ihren Copyright Text
+- **Zeile 4**: Ihre Kontakt-Email
+- **Zeile 14**: Ihre Social Media Links
+- **Zeile 19**: Ihren Copyright-Text
 
 ### 2. Farbschema
 
@@ -50,21 +53,21 @@ In `css/style.css`:
 ### 3. Bilder
 
 1. Ersetzen Sie die Projektbilder im `img/` Ordner:
-   - project1.jpg
-   - project2.jpg
-   - project3.jpg
+   - `project1.jpg`
+   - `project2.jpg`
+   - `project3.jpg`
 
 ### 4. Schriftarten
 
 Die Website verwendet:
-- 'Orbitron' für Überschriften
-- 'Inter' für normalen Text
+- **'Orbitron'** für Überschriften
+- **'Inter'** für normalen Text
 
 Um andere Google Fonts zu verwenden, ändern Sie den Link in `header.php`.
 
 ## 📱 Mobile Navigation
 
-Die mobile Navigation wird automatisch unter 768px Bildschirmbreite aktiviert.
+Die mobile Navigation wird automatisch unter **768px Bildschirmbreite** aktiviert.
 Sie können die Breakpoints in der `style.css` unter den Media Queries anpassen.
 
 ## 🛠 Installation
@@ -76,24 +79,32 @@ Sie können die Breakpoints in der `style.css` unter den Media Queries anpassen.
 
 ## 📂 Projektstruktur
 
+```bash
 portfolio/
 │
 ├── css/
-│ └── style.css
+│   └── style.css
+│
 ├── img/
-│ ├── project1.jpg
-│ ├── project2.jpg
-│ └── project3.jpg
+│   ├── project1.jpg
+│   ├── project2.jpg
+│   ├── project3.jpg
+│
 ├── js/
-│ └── main.js
+│   └── main.js
+│
 ├── index.php
 ├── header.php
 ├── footer.php
 └── README.md
+```
 
 ## 💡 Tipps
 
 - Verwenden Sie hochwertige, optimierte Bilder
 - Testen Sie die Website auf verschiedenen Geräten
 - Aktualisieren Sie regelmäßig Ihre Projekte und Skills
-- Fügen Sie Meta-Tags für SEO hinzu
+- Fügen Sie **Meta-Tags für SEO** hinzu
+```
+
+Jetzt ist es vollständig als Codeblock formatiert. Passt das für dich? 🚀😎
