@@ -103,5 +103,3 @@ portfolio/
 - Aktualisieren Sie regelmäßig Ihre Projekte und Skills
 - Fügen Sie **Meta-Tags für SEO** hinzu
 ```
-
-Jetzt ist es vollständig als Codeblock formatiert. Passt das für dich? 🚀😎
